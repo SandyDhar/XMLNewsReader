@@ -1,0 +1,2 @@
+In this application the XML data is consumed and displayed as news feed in a tableview.
+Clicking on each cell will open a webview.
